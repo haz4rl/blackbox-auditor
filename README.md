@@ -1,6 +1,6 @@
 # The Black-Box Auditor: Enterprise ML Governance & Live XAI Engine
 
-[![Streamlit App](https://static.streamlit.io/badge_svg.svg)](https://blackbox-auditor.streamlit.app/)
+(https://blackbox-auditor.streamlit.app/)
 
 An interactive Model Governance and Explainable AI (XAI) diagnostic dashboard designed to audit black-box ensemble classifiers. This system evaluates real-world credit risk pipelines for algorithmic transparency, demographic fairness, and statutory compliance with the EU AI Act.
 
