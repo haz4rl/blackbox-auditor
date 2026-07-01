@@ -27,5 +27,5 @@ An interactive Model Governance and Explainable AI (XAI) diagnostic dashboard de
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/blackbox-auditor.git](https://github.com/YOUR_GITHUB_USERNAME/blackbox-auditor.git)
+   git clone [https://github.com/haz4rl/blackbox-auditor.git](https://github.com/haz4rl/blackbox-auditor.git)
    cd blackbox-auditor
